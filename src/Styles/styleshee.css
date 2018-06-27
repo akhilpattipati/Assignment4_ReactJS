@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+
+}
+
+.header-title{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 10px 40px;
+    text-align: center;
+   background-color:  maroon;
+    color: yellow;
+
+
+
+}
+body {
+    font-family: "Lato", sans-serif;
+    background-color: #dfdfdf;
+
+}
+
+footer {
+    background: maroon;
+    color: #ccc;
+    display: block;
+    font-family: "Open Sans";
+    font-weight: 100;
+    padding: 24px 15px;
+    text-align: center;
+}
+#aside {
+    background: #141a21;
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font-family: "Open Sans";
+    font-weight: 100;
+    padding: 24px 15px;
+    text-align: center;
+}
+#aside {
+    background: maroon;
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font-family: "Open Sans";
+    font-weight: 100;
+    padding: 24px 15px;
+    text-align: center;
+}
+
+footer {
+    background: maroon;
+    color: #ccc;
+    display: block;
+    font-family: "Open Sans";
+    font-weight: 100;
+    padding: 24px 15px;
+    text-align: center;
+}
+
+section,
+aside {
+    margin: 0 1.5% 24px 1.5%;
+}
+
+header,footer {
+    margin: 0 0 24px 0;
+
+}
+
+section {
+    float: left;
+    width: 63%;
+}
+
+aside {
+    float: right;
+    width: 30%;
+}
+
+footer {
+    clear: both;
+    margin-bottom: 0;
+}
+
+.article_date {
+    color: #dfdfdf;
+}
+
+.article_title {
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+article {
+    background: maroon;
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font-family: "Open Sans";
+    font-weight: 100;
+    padding: 24px 15px;
+    text-align: justify;
+}
+.article_body{
+    color: #ccc;
+    line-height:20px;
+}
+
+hr{
+    border: none;
+    height: 1px;
+    color: #333;
+    background-color: #333;
+}
+
+a {
+    color:#ccc;
+    text-decoration:none;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    font-size:20px;
+}
+
+a:hover {
+    color: #dfdfdf;
+}
+
+li {
+    margin: 0 0 20px 0;
+}
+
+
